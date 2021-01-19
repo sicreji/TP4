@@ -7,3 +7,4 @@ echo "Liste des utilisateurs :"
 cat /etc/passwd | cut -d: -f1
 echo "Terminé"
 
+# bewm bewm
